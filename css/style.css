@@ -1,0 +1,26 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.well{
+	box-shadow: 0 2px 4px rgba(3,27,78,.06);
+	margin-bottom:10px;
+}
+
+
+
+#movie span{
+	padding-right:10px;
+	font-weight: 700;
+	font-size: 14px;
+}
